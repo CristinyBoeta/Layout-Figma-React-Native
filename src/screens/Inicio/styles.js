@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
         fontSize: 16,
     },
     separador: {
-        top: 15,
+        top: 10,
         borderBottomColor: '#DCDCDC',
         borderBottomWidth: 1,
     },
